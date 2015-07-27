@@ -1,2 +1,2 @@
 # hello-world
-Test
+Complete coding newb, taking first steps to learn something.
